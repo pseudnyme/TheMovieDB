@@ -1,0 +1,11 @@
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\bin\Debug\TheMovieDB.exe.config
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\bin\Debug\TheMovieDB.exe
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\bin\Debug\TheMovieDB.pdb
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\bin\Debug\Newtonsoft.Json.dll
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\bin\Debug\Newtonsoft.Json.xml
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.csprojResolveAssemblyReference.cache
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.formMain.resources
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.Properties.Resources.resources
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.csproj.GenerateResource.Cache
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.exe
+d:\dl03\documents\visual studio 2015\Projects\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.pdb
